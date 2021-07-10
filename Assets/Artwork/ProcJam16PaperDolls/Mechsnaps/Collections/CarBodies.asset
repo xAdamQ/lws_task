@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3192b9e2e6476782263191b08dccb, type: 3}
+  m_Name: CarBodies
+  m_EditorClassIdentifier: 
+  EmptyChance: 0
+  Art:
+  - {fileID: 21300000, guid: ba4342e0a4698467a9c5891b6b9763d9, type: 3}
+  - {fileID: 21300000, guid: 519fd5a601e834d78b40147cb3132e43, type: 3}
+  - {fileID: 21300000, guid: 45a7ccc7f05f74dc69d322462a7ffc0a, type: 3}
+  - {fileID: 21300000, guid: d73e5ac8cda324dc690762fe7b179509, type: 3}
+  - {fileID: 21300000, guid: 5ab07dea3f71341469de3dac9e6f80cd, type: 3}
+  isMirrored: 1

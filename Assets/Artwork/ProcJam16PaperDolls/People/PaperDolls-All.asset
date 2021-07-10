@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db812782187124fdf8dbbd6f150464cd, type: 3}
+  m_Name: PaperDolls-All
+  m_EditorClassIdentifier: 
+  Arms: {fileID: 11400000, guid: d8a98afc49e324716b027166eef24be8, type: 2}
+  Eyes: {fileID: 11400000, guid: 8188be0218ca54443b50fecd781296e8, type: 2}
+  Hairs: {fileID: 11400000, guid: 6e829cabe71634fe6943b50c95aabe42, type: 2}
+  Heads: {fileID: 11400000, guid: bbfa81d128c794802872e41ac8ae73c6, type: 2}
+  Legs: {fileID: 11400000, guid: 61c59619a5a784dd8814d7f3defd770e, type: 2}
+  Torsos: {fileID: 11400000, guid: 583ea861d288643b8a534dbb467b94a7, type: 2}

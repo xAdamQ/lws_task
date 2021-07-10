@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3192b9e2e6476782263191b08dccb, type: 3}
+  m_Name: MasculineHairs
+  m_EditorClassIdentifier: 
+  Art:
+  - {fileID: 21300000, guid: c878e55149d014f6db6e503e1c2c25a2, type: 3}
+  - {fileID: 21300000, guid: ea14435221e2c47b4b372389b9077a4a, type: 3}
+  - {fileID: 21300000, guid: a465f092bec534346b5db3006dd79a44, type: 3}
+  - {fileID: 21300000, guid: 4346391468b5d45239d84ccb6352675d, type: 3}
+  - {fileID: 21300000, guid: 44d823d45dd0d44f0804c8c55e9245ec, type: 3}
+  - {fileID: 21300000, guid: afeac9557196145c9995954a12bbbfee, type: 3}
+  - {fileID: 21300000, guid: 52d02fd7825a648f8b0a4f96e985faef, type: 3}
+  - {fileID: 21300000, guid: 4a164de75c4d34a81945c28e2cafe8f5, type: 3}
+  - {fileID: 21300000, guid: 4e4dbe190bbdd4845bef10b30063d337, type: 3}
+  - {fileID: 21300000, guid: 84a24adb3999a452ca4e0427a6153608, type: 3}
+  - {fileID: 21300000, guid: cd9b7eae021834914b38f7d751a46bf1, type: 3}
+  - {fileID: 21300000, guid: 09e4b93fed2544e6fb7b8ed9a6a74b2e, type: 3}

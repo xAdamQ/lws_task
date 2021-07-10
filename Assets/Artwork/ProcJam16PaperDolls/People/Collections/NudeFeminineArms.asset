@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3192b9e2e6476782263191b08dccb, type: 3}
+  m_Name: NudeFeminineArms
+  m_EditorClassIdentifier: 
+  Art:
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: e7d2e8daabe7941c794c861473f31ccd, type: 3}
+  - {fileID: 21300000, guid: f1b5b83a241e34c4fae13ae4452a7d32, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  - {fileID: 21300000, guid: 483eabbacef5848f4bdd136be2b32759, type: 3}
+  IsUniversal: 0
+  EmptyChance: 0
+  FlipXChance: 0.5
+  FlipYChance: 0

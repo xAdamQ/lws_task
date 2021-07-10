@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3192b9e2e6476782263191b08dccb, type: 3}
+  m_Name: Swimsuits
+  m_EditorClassIdentifier: 
+  Art:
+  - {fileID: 21300000, guid: 947b05570d6cb4ca1bc9fd3cb438e12b, type: 3}
+  - {fileID: 21300000, guid: 77cfd498440804b83a89337d16bdbf6a, type: 3}
+  - {fileID: 21300000, guid: 9839572bbc90843b78417dba67885add, type: 3}
+  - {fileID: 21300000, guid: e3dd8dd4a1e7941bd9ee230be8bc0ae1, type: 3}
+  - {fileID: 21300000, guid: 0c2765ad9dc9146e498044bfdd2e88bb, type: 3}
+  - {fileID: 21300000, guid: 290215157cec34caeba5f688f95cec41, type: 3}
+  - {fileID: 21300000, guid: c890338875b754dc4b878a980e982784, type: 3}
+  - {fileID: 21300000, guid: 781ba82c7639746e89b2f5f2b19aa4d2, type: 3}
+  - {fileID: 21300000, guid: f6885e953ba62432ebc3d88b9cf25a6a, type: 3}
+  - {fileID: 21300000, guid: dd0794a35e29b48839b0894e7403d22d, type: 3}
+  - {fileID: 21300000, guid: 13f0c7b3419f648599fda1621bd0204f, type: 3}
+  - {fileID: 21300000, guid: a9dd264da42774f3b8d5c1b4d93354b0, type: 3}
+  - {fileID: 21300000, guid: 210ec4ec63975440bb04c093989219a4, type: 3}
+  IsUniversal: 1
+  EmptyChance: 0
+  FlipXChance: 0.5
+  FlipYChance: 0

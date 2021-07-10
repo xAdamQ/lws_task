@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3192b9e2e6476782263191b08dccb, type: 3}
+  m_Name: Wheels
+  m_EditorClassIdentifier: 
+  Art:
+  - {fileID: 21300000, guid: 7e8256992c83f47f199f72a167be6960, type: 3}
+  - {fileID: 21300000, guid: 0c80669ce819c4bef90171c910b4b42c, type: 3}
+  IsUniversal: 1
+  EmptyChance: 0
+  FlipXChance: 0.5
+  FlipYChance: 0

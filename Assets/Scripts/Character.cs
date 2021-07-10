@@ -1,11 +1,12 @@
 using System;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.EventSystems;
+using Object = UnityEngine.Object;
 
 [RequireComponent(typeof(NavMeshAgent))]
 public class Character : MonoBehaviour
 {
-    private RaycastHit hitInfo;
     private NavMeshAgent agent;
     private Animator anim;
     private static readonly int poseHash = Animator.StringToHash("pose");
@@ -21,11 +22,7 @@ public class Character : MonoBehaviour
 
     void Update()
     {
-        Debug.Log($"agent.acceleration: {agent.acceleration} " +
-                  $"agent.speed: {agent.speed} " +
-                  $"agent.velocity: {agent.velocity} ");
-
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !EventSystem.current.IsPointerOverGameObject())
         {
             agent.destination = Camera.main.ScreenToWorldPoint(Input.mousePosition.SetZ(10));
         }
